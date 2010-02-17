@@ -1,0 +1,7 @@
+This is a Template for programming STM32 Cortex M3 Microcontroller 
+with the CMSIS and the STM32f10x Libraries.
+
+This template is based on the work from Piotr Esden.
+
+You need to install the arm toolchain and the STM Libraries. 
+Look at my other Project here at Github for more Information.
